@@ -47,6 +47,7 @@ public class DayIdentifier {
             }
         }else{
             System.out.println("You selected Wrong Day!");
+            System.out.println("Hello");
         }
 
 
